@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Umayyhan
+- 👋 Hi, I’m @Umayyhan Ümmühan TEPEBAŞ
 - 🌱 I’m currently learning Python and Java
 - 👀 Check my repositories
 
