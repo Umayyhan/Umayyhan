@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ümmühan TEPEBAŞ
-- 🌱 I’m currently learning Python and Java
-- 👀 Check my repositories
+- 🌱 I’m currently learning Python
+- 👀 Please check my repositories
 
 <!---
 Umayyhan/Umayyhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
